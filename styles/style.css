@@ -52,15 +52,15 @@ button{
 }
 
 .background1 {
-    background: #292929;
+    background-color: #292929;
 }
 
 .background2 {
-    background: #F2F2F2;
+    background-color: #F2F2F2;
 }
 
 .background3{
-    background: #C7C7C7;
+    background-color: #C7C7C7;
 }
 
 #corpo {
@@ -161,4 +161,6 @@ button{
 
 #button-text {
     margin: 10px 0px 22px 0px;
+    /* width: 96px; */
+    width: 6.666666667vw;
 }
